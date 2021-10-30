@@ -2,6 +2,6 @@ First line of code
 
 Second line of code
 
-Third line of code
+Third line of code (Changes for feature/merge-2 branch)
 
 Fourth line of code (Changes for master branch)
