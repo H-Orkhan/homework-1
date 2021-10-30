@@ -4,4 +4,4 @@ Second line of code
 
 Third line of code
 
-Fourth line of code (Changes for feature/rebase-2)
+Fourth line of code (Changes for master branch)
